@@ -1,0 +1,17 @@
+[package]
+name = "ftml-analyzer"
+version = "0.1.0"
+edition = "2024"
+readme = "README.md"
+autotests = true
+license = "AGPL-3"
+
+# publish is temporarily false
+publish = false
+
+[dependencies]
+ftml = "1.41.0"
+serde_json = "1.0.151"
+serde = "1.0.229"
+regex = "1.13.1"
+anyhow = "1.0.104"
