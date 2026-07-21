@@ -1,10 +1,10 @@
 //! This module serves for getting parser AST by using `ftml` library
 
 use anyhow::Result;
+use ftml::prelude::ParseError;
+use ftml::render::html::HtmlRender;
 use serde::Serialize;
 use std::borrow::Cow;
-use ftml::render::html::HtmlRender;
-use ftml::prelude::ParseError;
 
 #[derive(Serialize)]
 pub struct FtmlParseOutput {
@@ -53,8 +53,8 @@ pub fn get_ftml_ast(
     use ftml::render::Render;
 
     let html_output = HtmlRender.render(&tree, &page_info, &settings);
-    
-    Ok(FtmlParseOutput{
+
+    Ok(FtmlParseOutput {
         html: html_output.body.to_string(),
         ast_json,
         warnings,

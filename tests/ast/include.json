@@ -1,0 +1,292 @@
+{
+  "elements": [
+    {
+      "element": "container",
+      "data": {
+        "type": "paragraph",
+        "attributes": {},
+        "elements": [
+          {
+            "element": "text",
+            "data": "<"
+          },
+          {
+            "element": "text",
+            "data": "MISSING"
+          },
+          {
+            "element": "text",
+            "data": "-"
+          },
+          {
+            "element": "text",
+            "data": "PAGE"
+          },
+          {
+            "element": "text",
+            "data": " "
+          },
+          {
+            "element": "text",
+            "data": ":"
+          },
+          {
+            "element": "text",
+            "data": "scp"
+          },
+          {
+            "element": "text",
+            "data": "-"
+          },
+          {
+            "element": "text",
+            "data": "wiki"
+          },
+          {
+            "element": "text",
+            "data": ":"
+          },
+          {
+            "element": "text",
+            "data": "theme"
+          },
+          {
+            "element": "text",
+            "data": ":"
+          },
+          {
+            "element": "text",
+            "data": "basalt"
+          },
+          {
+            "element": "text",
+            "data": ">"
+          },
+          {
+            "element": "line-break"
+          },
+          {
+            "element": "text",
+            "data": "<"
+          },
+          {
+            "element": "text",
+            "data": "INCLUDED"
+          },
+          {
+            "element": "text",
+            "data": "-"
+          },
+          {
+            "element": "text",
+            "data": "PAGE"
+          },
+          {
+            "element": "text",
+            "data": " "
+          },
+          {
+            "element": "text",
+            "data": ":"
+          },
+          {
+            "element": "text",
+            "data": "component"
+          },
+          {
+            "element": "text",
+            "data": ":"
+          },
+          {
+            "element": "text",
+            "data": "image"
+          },
+          {
+            "element": "text",
+            "data": "-"
+          },
+          {
+            "element": "text",
+            "data": "block"
+          },
+          {
+            "element": "text",
+            "data": " "
+          },
+          {
+            "element": "text",
+            "data": "{"
+          },
+          {
+            "element": "text",
+            "data": "\""
+          },
+          {
+            "element": "text",
+            "data": "align"
+          },
+          {
+            "element": "text",
+            "data": "\""
+          },
+          {
+            "element": "text",
+            "data": " "
+          },
+          {
+            "element": "text",
+            "data": "="
+          },
+          {
+            "element": "text",
+            "data": ">"
+          },
+          {
+            "element": "text",
+            "data": " "
+          },
+          {
+            "element": "text",
+            "data": "\""
+          },
+          {
+            "element": "text",
+            "data": "right"
+          },
+          {
+            "element": "text",
+            "data": "\\"
+          },
+          {
+            "element": "text",
+            "data": "n"
+          },
+          {
+            "element": "text",
+            "data": "\""
+          },
+          {
+            "element": "text",
+            "data": ","
+          },
+          {
+            "element": "text",
+            "data": " "
+          },
+          {
+            "element": "text",
+            "data": "\""
+          },
+          {
+            "element": "text",
+            "data": "name"
+          },
+          {
+            "element": "text",
+            "data": "\""
+          },
+          {
+            "element": "text",
+            "data": " "
+          },
+          {
+            "element": "text",
+            "data": "="
+          },
+          {
+            "element": "text",
+            "data": ">"
+          },
+          {
+            "element": "text",
+            "data": " "
+          },
+          {
+            "element": "text",
+            "data": "\""
+          },
+          {
+            "element": "text",
+            "data": "example"
+          },
+          {
+            "element": "text",
+            "data": "."
+          },
+          {
+            "element": "text",
+            "data": "png"
+          },
+          {
+            "element": "text",
+            "data": "\\"
+          },
+          {
+            "element": "text",
+            "data": "n"
+          },
+          {
+            "element": "text",
+            "data": "\""
+          },
+          {
+            "element": "text",
+            "data": ","
+          },
+          {
+            "element": "text",
+            "data": " "
+          },
+          {
+            "element": "text",
+            "data": "\""
+          },
+          {
+            "element": "text",
+            "data": "width"
+          },
+          {
+            "element": "text",
+            "data": "\""
+          },
+          {
+            "element": "text",
+            "data": " "
+          },
+          {
+            "element": "text",
+            "data": "="
+          },
+          {
+            "element": "text",
+            "data": ">"
+          },
+          {
+            "element": "text",
+            "data": " "
+          },
+          {
+            "element": "text",
+            "data": "\""
+          },
+          {
+            "element": "text",
+            "data": "200px"
+          },
+          {
+            "element": "text",
+            "data": "\""
+          },
+          {
+            "element": "text",
+            "data": "}"
+          },
+          {
+            "element": "text",
+            "data": ">"
+          }
+        ]
+      }
+    }
+  ]
+}

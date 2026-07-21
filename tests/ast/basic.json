@@ -1,0 +1,362 @@
+{
+  "elements": [
+    {
+      "element": "container",
+      "data": {
+        "type": "paragraph",
+        "attributes": {},
+        "elements": [
+          {
+            "element": "container",
+            "data": {
+              "type": "bold",
+              "attributes": {},
+              "elements": [
+                {
+                  "element": "text",
+                  "data": "bold"
+                }
+              ]
+            }
+          },
+          {
+            "element": "line-break"
+          },
+          {
+            "element": "container",
+            "data": {
+              "type": "italics",
+              "attributes": {},
+              "elements": [
+                {
+                  "element": "text",
+                  "data": "italic"
+                }
+              ]
+            }
+          },
+          {
+            "element": "line-break"
+          },
+          {
+            "element": "container",
+            "data": {
+              "type": "underline",
+              "attributes": {},
+              "elements": [
+                {
+                  "element": "text",
+                  "data": "underline"
+                }
+              ]
+            }
+          },
+          {
+            "element": "line-break"
+          },
+          {
+            "element": "container",
+            "data": {
+              "type": "strikethrough",
+              "attributes": {},
+              "elements": [
+                {
+                  "element": "text",
+                  "data": "strikethrough"
+                }
+              ]
+            }
+          },
+          {
+            "element": "line-break"
+          },
+          {
+            "element": "container",
+            "data": {
+              "type": "bold",
+              "attributes": {},
+              "elements": [
+                {
+                  "element": "container",
+                  "data": {
+                    "type": "italics",
+                    "attributes": {},
+                    "elements": [
+                      {
+                        "element": "text",
+                        "data": "bold"
+                      },
+                      {
+                        "element": "text",
+                        "data": " "
+                      },
+                      {
+                        "element": "text",
+                        "data": "and"
+                      },
+                      {
+                        "element": "text",
+                        "data": " "
+                      },
+                      {
+                        "element": "text",
+                        "data": "italic"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "element": "line-break"
+          },
+          {
+            "element": "container",
+            "data": {
+              "type": "underline",
+              "attributes": {},
+              "elements": [
+                {
+                  "element": "container",
+                  "data": {
+                    "type": "strikethrough",
+                    "attributes": {},
+                    "elements": [
+                      {
+                        "element": "text",
+                        "data": "underline"
+                      },
+                      {
+                        "element": "text",
+                        "data": " "
+                      },
+                      {
+                        "element": "text",
+                        "data": "and"
+                      },
+                      {
+                        "element": "text",
+                        "data": " "
+                      },
+                      {
+                        "element": "text",
+                        "data": "strikethrough"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "element": "line-break"
+          },
+          {
+            "element": "container",
+            "data": {
+              "type": "strikethrough",
+              "attributes": {},
+              "elements": [
+                {
+                  "element": "container",
+                  "data": {
+                    "type": "underline",
+                    "attributes": {},
+                    "elements": [
+                      {
+                        "element": "container",
+                        "data": {
+                          "type": "bold",
+                          "attributes": {},
+                          "elements": [
+                            {
+                              "element": "container",
+                              "data": {
+                                "type": "italics",
+                                "attributes": {},
+                                "elements": [
+                                  {
+                                    "element": "text",
+                                    "data": "bold"
+                                  },
+                                  {
+                                    "element": "text",
+                                    "data": " "
+                                  },
+                                  {
+                                    "element": "text",
+                                    "data": "and"
+                                  },
+                                  {
+                                    "element": "text",
+                                    "data": " "
+                                  },
+                                  {
+                                    "element": "text",
+                                    "data": "italic"
+                                  },
+                                  {
+                                    "element": "text",
+                                    "data": " "
+                                  },
+                                  {
+                                    "element": "text",
+                                    "data": "and"
+                                  },
+                                  {
+                                    "element": "text",
+                                    "data": " "
+                                  },
+                                  {
+                                    "element": "text",
+                                    "data": "underline"
+                                  },
+                                  {
+                                    "element": "text",
+                                    "data": " "
+                                  },
+                                  {
+                                    "element": "text",
+                                    "data": "and"
+                                  },
+                                  {
+                                    "element": "text",
+                                    "data": " "
+                                  },
+                                  {
+                                    "element": "text",
+                                    "data": "strikethrough"
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "element": "line-break"
+          },
+          {
+            "element": "container",
+            "data": {
+              "type": "superscript",
+              "attributes": {},
+              "elements": [
+                {
+                  "element": "text",
+                  "data": "superscript"
+                }
+              ]
+            }
+          },
+          {
+            "element": "line-break"
+          },
+          {
+            "element": "container",
+            "data": {
+              "type": "subscript",
+              "attributes": {},
+              "elements": [
+                {
+                  "element": "text",
+                  "data": "subscript"
+                }
+              ]
+            }
+          },
+          {
+            "element": "line-break"
+          },
+          {
+            "element": "raw",
+            "data": "original text"
+          }
+        ]
+      }
+    },
+    {
+      "element": "horizontal-rule"
+    },
+    {
+      "element": "container",
+      "data": {
+        "type": "blockquote",
+        "attributes": {},
+        "elements": [
+          {
+            "element": "container",
+            "data": {
+              "type": "paragraph",
+              "attributes": {},
+              "elements": [
+                {
+                  "element": "text",
+                  "data": "quote"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "element": "container",
+      "data": {
+        "type": "paragraph",
+        "attributes": {},
+        "elements": [
+          {
+            "element": "raw",
+            "data": ""
+          },
+          {
+            "element": "text",
+            "data": " "
+          }
+        ]
+      }
+    },
+    {
+      "element": "container",
+      "data": {
+        "type": "paragraph",
+        "attributes": {},
+        "elements": [
+          {
+            "element": "text",
+            "data": "["
+          },
+          {
+            "element": "text",
+            "data": "link"
+          },
+          {
+            "element": "text",
+            "data": " "
+          },
+          {
+            "element": "link",
+            "data": {
+              "type": "direct",
+              "link": "https://www.google.com",
+              "label": "url",
+              "target": null
+            }
+          },
+          {
+            "element": "text",
+            "data": "]"
+          }
+        ]
+      }
+    }
+  ]
+}

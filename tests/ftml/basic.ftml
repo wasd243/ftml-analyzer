@@ -1,0 +1,20 @@
+[!--Basic marks test--]
+[!--Contains marks like bold, italic, underline, strikethrough, hr, quote, and anything else without `[[]]`--]
+**bold**
+//italic//
+__underline__
+--strikethrough--
+**//bold and italic//**
+__--underline and strikethrough--__
+--__**//bold and italic and underline and strikethrough//**__--
+^^superscript^^
+,,subscript,,
+@@original text@@
+
+------
+
+> quote
+
+@@@@ [!--Force New Line--]
+
+[link https://www.google.com]

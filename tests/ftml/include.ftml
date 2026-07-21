@@ -1,0 +1,8 @@
+[!--Test `include` highlights--]
+[!--Only highlights, no rendering output, So I ignored the `Includer` settings--]
+
+[[include :scp-wiki:theme:basalt]]
+[[include :component:image-block
+|name=example.png
+|align=right
+|width=200px]]
