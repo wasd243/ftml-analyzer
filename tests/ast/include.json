@@ -8,19 +8,11 @@
         "elements": [
           {
             "element": "text",
-            "data": "<"
+            "data": "[["
           },
           {
             "element": "text",
-            "data": "MISSING"
-          },
-          {
-            "element": "text",
-            "data": "-"
-          },
-          {
-            "element": "text",
-            "data": "PAGE"
+            "data": "include"
           },
           {
             "element": "text",
@@ -60,26 +52,15 @@
           },
           {
             "element": "text",
-            "data": ">"
-          },
-          {
-            "element": "line-break"
+            "data": "]]"
           },
           {
             "element": "text",
-            "data": "<"
+            "data": "[["
           },
           {
             "element": "text",
-            "data": "INCLUDED"
-          },
-          {
-            "element": "text",
-            "data": "-"
-          },
-          {
-            "element": "text",
-            "data": "PAGE"
+            "data": "include"
           },
           {
             "element": "text",
@@ -110,72 +91,11 @@
             "data": "block"
           },
           {
-            "element": "text",
-            "data": " "
+            "element": "line-break"
           },
           {
             "element": "text",
-            "data": "{"
-          },
-          {
-            "element": "text",
-            "data": "\""
-          },
-          {
-            "element": "text",
-            "data": "align"
-          },
-          {
-            "element": "text",
-            "data": "\""
-          },
-          {
-            "element": "text",
-            "data": " "
-          },
-          {
-            "element": "text",
-            "data": "="
-          },
-          {
-            "element": "text",
-            "data": ">"
-          },
-          {
-            "element": "text",
-            "data": " "
-          },
-          {
-            "element": "text",
-            "data": "\""
-          },
-          {
-            "element": "text",
-            "data": "right"
-          },
-          {
-            "element": "text",
-            "data": "\\"
-          },
-          {
-            "element": "text",
-            "data": "n"
-          },
-          {
-            "element": "text",
-            "data": "\""
-          },
-          {
-            "element": "text",
-            "data": ","
-          },
-          {
-            "element": "text",
-            "data": " "
-          },
-          {
-            "element": "text",
-            "data": "\""
+            "data": "|"
           },
           {
             "element": "text",
@@ -183,27 +103,7 @@
           },
           {
             "element": "text",
-            "data": "\""
-          },
-          {
-            "element": "text",
-            "data": " "
-          },
-          {
-            "element": "text",
             "data": "="
-          },
-          {
-            "element": "text",
-            "data": ">"
-          },
-          {
-            "element": "text",
-            "data": " "
-          },
-          {
-            "element": "text",
-            "data": "\""
           },
           {
             "element": "text",
@@ -218,40 +118,15 @@
             "data": "png"
           },
           {
-            "element": "text",
-            "data": "\\"
+            "element": "line-break"
           },
           {
             "element": "text",
-            "data": "n"
+            "data": "|"
           },
           {
             "element": "text",
-            "data": "\""
-          },
-          {
-            "element": "text",
-            "data": ","
-          },
-          {
-            "element": "text",
-            "data": " "
-          },
-          {
-            "element": "text",
-            "data": "\""
-          },
-          {
-            "element": "text",
-            "data": "width"
-          },
-          {
-            "element": "text",
-            "data": "\""
-          },
-          {
-            "element": "text",
-            "data": " "
+            "data": "align"
           },
           {
             "element": "text",
@@ -259,15 +134,22 @@
           },
           {
             "element": "text",
-            "data": ">"
+            "data": "right"
+          },
+          {
+            "element": "line-break"
           },
           {
             "element": "text",
-            "data": " "
+            "data": "|"
           },
           {
             "element": "text",
-            "data": "\""
+            "data": "width"
+          },
+          {
+            "element": "text",
+            "data": "="
           },
           {
             "element": "text",
@@ -275,15 +157,7 @@
           },
           {
             "element": "text",
-            "data": "\""
-          },
-          {
-            "element": "text",
-            "data": "}"
-          },
-          {
-            "element": "text",
-            "data": ">"
+            "data": "]]"
           }
         ]
       }

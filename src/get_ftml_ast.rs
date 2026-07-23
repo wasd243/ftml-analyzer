@@ -13,6 +13,11 @@ pub struct FtmlParseOutput {
     pub warnings: Vec<ParseError>,
 }
 
+#[derive(Serialize)]
+pub struct FtmlTokenizeOutput {
+    pub tokens_json: String,
+}
+
 /// A function to get parser AST by using `ftml` library
 pub fn get_ftml_ast(
     source_text: &str,
@@ -59,6 +64,18 @@ pub fn get_ftml_ast(
         ast_json,
         warnings,
     })
+}
+
+/// Only get ftml tokens
+pub fn get_ftml_tokens(source_text: &str) -> Result<FtmlTokenizeOutput> {
+    let mut wikitext = source_text.to_string();
+
+    ftml::preprocess(&mut wikitext);
+
+    let tokens = ftml::tokenize(&wikitext);
+    let tokens_json = serde_json::to_string_pretty(tokens.tokens())?;
+
+    Ok(FtmlTokenizeOutput { tokens_json })
 }
 
 /// A function to get site name correctly (I don't think this is necessary when implementing highlighter)

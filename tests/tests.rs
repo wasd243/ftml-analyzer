@@ -1,4 +1,4 @@
-use ftml_analyzer::get_ftml_ast;
+use ftml_analyzer::{get_ftml_ast, get_ftml_tokens};
 use std::fs;
 use std::path::Path;
 
@@ -25,7 +25,7 @@ fn load_ftml_source_text<P: AsRef<Path>>(dir: P) -> Vec<(String, String)> {
 }
 
 #[test]
-fn test_ftml_analyzer() {
+fn test_ftml_ast_output() {
     let source_text = load_ftml_source_text("tests/ftml");
 
     for (name, source) in source_text {
@@ -35,5 +35,22 @@ fn test_ftml_analyzer() {
 
         fs::write(format!("tests/ast/{name}.json"), result.unwrap().ast_json)
             .expect("Failed writing AST JSON");
+    }
+}
+
+#[test]
+fn test_ftml_tokenize_output() {
+    let source_text = load_ftml_source_text("tests/ftml");
+
+    for (name, source) in source_text {
+        println!("Testing {name}");
+
+        let result = get_ftml_tokens(&source);
+
+        fs::write(
+            format!("tests/tokens/{name}.json"),
+            result.unwrap().tokens_json,
+        )
+        .expect("Failed writing tokens JSON");
     }
 }

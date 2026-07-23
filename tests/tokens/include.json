@@ -1,0 +1,642 @@
+[
+  {
+    "token": "input-start",
+    "slice": "",
+    "span": {
+      "start": 0,
+      "end": 0
+    }
+  },
+  {
+    "token": "left-comment",
+    "slice": "[!--",
+    "span": {
+      "start": 0,
+      "end": 4
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "Test",
+    "span": {
+      "start": 4,
+      "end": 8
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 8,
+      "end": 9
+    }
+  },
+  {
+    "token": "other",
+    "slice": "`",
+    "span": {
+      "start": 9,
+      "end": 10
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "include",
+    "span": {
+      "start": 10,
+      "end": 17
+    }
+  },
+  {
+    "token": "other",
+    "slice": "`",
+    "span": {
+      "start": 17,
+      "end": 18
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 18,
+      "end": 19
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "highlights",
+    "span": {
+      "start": 19,
+      "end": 29
+    }
+  },
+  {
+    "token": "right-comment",
+    "slice": "--]",
+    "span": {
+      "start": 29,
+      "end": 32
+    }
+  },
+  {
+    "token": "line-break",
+    "slice": "\n",
+    "span": {
+      "start": 32,
+      "end": 33
+    }
+  },
+  {
+    "token": "left-comment",
+    "slice": "[!--",
+    "span": {
+      "start": 33,
+      "end": 37
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "Only",
+    "span": {
+      "start": 37,
+      "end": 41
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 41,
+      "end": 42
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "highlights",
+    "span": {
+      "start": 42,
+      "end": 52
+    }
+  },
+  {
+    "token": "other",
+    "slice": ",",
+    "span": {
+      "start": 52,
+      "end": 53
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 53,
+      "end": 54
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "no",
+    "span": {
+      "start": 54,
+      "end": 56
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 56,
+      "end": 57
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "rendering",
+    "span": {
+      "start": 57,
+      "end": 66
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 66,
+      "end": 67
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "output",
+    "span": {
+      "start": 67,
+      "end": 73
+    }
+  },
+  {
+    "token": "other",
+    "slice": ",",
+    "span": {
+      "start": 73,
+      "end": 74
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 74,
+      "end": 75
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "So",
+    "span": {
+      "start": 75,
+      "end": 77
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 77,
+      "end": 78
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "I",
+    "span": {
+      "start": 78,
+      "end": 79
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 79,
+      "end": 80
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "ignored",
+    "span": {
+      "start": 80,
+      "end": 87
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 87,
+      "end": 88
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "the",
+    "span": {
+      "start": 88,
+      "end": 91
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 91,
+      "end": 92
+    }
+  },
+  {
+    "token": "other",
+    "slice": "`",
+    "span": {
+      "start": 92,
+      "end": 93
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "Includer",
+    "span": {
+      "start": 93,
+      "end": 101
+    }
+  },
+  {
+    "token": "other",
+    "slice": "`",
+    "span": {
+      "start": 101,
+      "end": 102
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 102,
+      "end": 103
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "settings",
+    "span": {
+      "start": 103,
+      "end": 111
+    }
+  },
+  {
+    "token": "right-comment",
+    "slice": "--]",
+    "span": {
+      "start": 111,
+      "end": 114
+    }
+  },
+  {
+    "token": "paragraph-break",
+    "slice": "\n\n",
+    "span": {
+      "start": 114,
+      "end": 116
+    }
+  },
+  {
+    "token": "left-block",
+    "slice": "[[",
+    "span": {
+      "start": 116,
+      "end": 118
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "include",
+    "span": {
+      "start": 118,
+      "end": 125
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 125,
+      "end": 126
+    }
+  },
+  {
+    "token": "colon",
+    "slice": ":",
+    "span": {
+      "start": 126,
+      "end": 127
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "scp",
+    "span": {
+      "start": 127,
+      "end": 130
+    }
+  },
+  {
+    "token": "other",
+    "slice": "-",
+    "span": {
+      "start": 130,
+      "end": 131
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "wiki",
+    "span": {
+      "start": 131,
+      "end": 135
+    }
+  },
+  {
+    "token": "colon",
+    "slice": ":",
+    "span": {
+      "start": 135,
+      "end": 136
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "theme",
+    "span": {
+      "start": 136,
+      "end": 141
+    }
+  },
+  {
+    "token": "colon",
+    "slice": ":",
+    "span": {
+      "start": 141,
+      "end": 142
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "basalt",
+    "span": {
+      "start": 142,
+      "end": 148
+    }
+  },
+  {
+    "token": "right-block",
+    "slice": "]]",
+    "span": {
+      "start": 148,
+      "end": 150
+    }
+  },
+  {
+    "token": "line-break",
+    "slice": "\n",
+    "span": {
+      "start": 150,
+      "end": 151
+    }
+  },
+  {
+    "token": "left-block",
+    "slice": "[[",
+    "span": {
+      "start": 151,
+      "end": 153
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "include",
+    "span": {
+      "start": 153,
+      "end": 160
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 160,
+      "end": 161
+    }
+  },
+  {
+    "token": "colon",
+    "slice": ":",
+    "span": {
+      "start": 161,
+      "end": 162
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "component",
+    "span": {
+      "start": 162,
+      "end": 171
+    }
+  },
+  {
+    "token": "colon",
+    "slice": ":",
+    "span": {
+      "start": 171,
+      "end": 172
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "image",
+    "span": {
+      "start": 172,
+      "end": 177
+    }
+  },
+  {
+    "token": "other",
+    "slice": "-",
+    "span": {
+      "start": 177,
+      "end": 178
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "block",
+    "span": {
+      "start": 178,
+      "end": 183
+    }
+  },
+  {
+    "token": "line-break",
+    "slice": "\n",
+    "span": {
+      "start": 183,
+      "end": 184
+    }
+  },
+  {
+    "token": "pipe",
+    "slice": "|",
+    "span": {
+      "start": 184,
+      "end": 185
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "name",
+    "span": {
+      "start": 185,
+      "end": 189
+    }
+  },
+  {
+    "token": "equals",
+    "slice": "=",
+    "span": {
+      "start": 189,
+      "end": 190
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "example",
+    "span": {
+      "start": 190,
+      "end": 197
+    }
+  },
+  {
+    "token": "other",
+    "slice": ".",
+    "span": {
+      "start": 197,
+      "end": 198
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "png",
+    "span": {
+      "start": 198,
+      "end": 201
+    }
+  },
+  {
+    "token": "line-break",
+    "slice": "\n",
+    "span": {
+      "start": 201,
+      "end": 202
+    }
+  },
+  {
+    "token": "pipe",
+    "slice": "|",
+    "span": {
+      "start": 202,
+      "end": 203
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "align",
+    "span": {
+      "start": 203,
+      "end": 208
+    }
+  },
+  {
+    "token": "equals",
+    "slice": "=",
+    "span": {
+      "start": 208,
+      "end": 209
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "right",
+    "span": {
+      "start": 209,
+      "end": 214
+    }
+  },
+  {
+    "token": "line-break",
+    "slice": "\n",
+    "span": {
+      "start": 214,
+      "end": 215
+    }
+  },
+  {
+    "token": "pipe",
+    "slice": "|",
+    "span": {
+      "start": 215,
+      "end": 216
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "width",
+    "span": {
+      "start": 216,
+      "end": 221
+    }
+  },
+  {
+    "token": "equals",
+    "slice": "=",
+    "span": {
+      "start": 221,
+      "end": 222
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "200px",
+    "span": {
+      "start": 222,
+      "end": 227
+    }
+  },
+  {
+    "token": "right-block",
+    "slice": "]]",
+    "span": {
+      "start": 227,
+      "end": 229
+    }
+  },
+  {
+    "token": "input-end",
+    "slice": "",
+    "span": {
+      "start": 229,
+      "end": 229
+    }
+  }
+]
