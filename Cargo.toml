@@ -5,6 +5,8 @@ edition = "2024"
 readme = "README.md"
 autotests = true
 license = "AGPL-3.0-or-later"
+description = "Experimental FTML language tooling library"
+repository = "https://github.com/wasd243/ftml-analyzer.git"
 publish = true
 
 [dependencies]
