@@ -1,13 +1,11 @@
 [package]
-name = "ftml-analyzer"
+name = "ftml-language-tools"
 version = "0.1.0"
 edition = "2024"
 readme = "README.md"
 autotests = true
-license = "AGPL-3"
-
-# publish is temporarily false
-publish = false
+license = "AGPL-3.0-or-later"
+publish = true
 
 [dependencies]
 ftml = "1.41.0"
