@@ -1,0 +1,1130 @@
+[
+  {
+    "token": "left-comment",
+    "slice": "[!--",
+    "span": {
+      "start": 0,
+      "end": 4
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "Basic",
+    "span": {
+      "start": 4,
+      "end": 9
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 9,
+      "end": 10
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "marks",
+    "span": {
+      "start": 10,
+      "end": 15
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 15,
+      "end": 16
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "test",
+    "span": {
+      "start": 16,
+      "end": 20
+    }
+  },
+  {
+    "token": "right-comment",
+    "slice": "--]",
+    "span": {
+      "start": 20,
+      "end": 23
+    }
+  },
+  {
+    "token": "line-break",
+    "slice": "\n",
+    "span": {
+      "start": 23,
+      "end": 24
+    }
+  },
+  {
+    "token": "left-comment",
+    "slice": "[!--",
+    "span": {
+      "start": 24,
+      "end": 28
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "Contains",
+    "span": {
+      "start": 28,
+      "end": 36
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 36,
+      "end": 37
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "marks",
+    "span": {
+      "start": 37,
+      "end": 42
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 42,
+      "end": 43
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "like",
+    "span": {
+      "start": 43,
+      "end": 47
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 47,
+      "end": 48
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "bold",
+    "span": {
+      "start": 48,
+      "end": 52
+    }
+  },
+  {
+    "token": "other",
+    "slice": ",",
+    "span": {
+      "start": 52,
+      "end": 53
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 53,
+      "end": 54
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "italic",
+    "span": {
+      "start": 54,
+      "end": 60
+    }
+  },
+  {
+    "token": "other",
+    "slice": ",",
+    "span": {
+      "start": 60,
+      "end": 61
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 61,
+      "end": 62
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "underline",
+    "span": {
+      "start": 62,
+      "end": 71
+    }
+  },
+  {
+    "token": "other",
+    "slice": ",",
+    "span": {
+      "start": 71,
+      "end": 72
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 72,
+      "end": 73
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "strikethrough",
+    "span": {
+      "start": 73,
+      "end": 86
+    }
+  },
+  {
+    "token": "other",
+    "slice": ",",
+    "span": {
+      "start": 86,
+      "end": 87
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 87,
+      "end": 88
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "hr",
+    "span": {
+      "start": 88,
+      "end": 90
+    }
+  },
+  {
+    "token": "other",
+    "slice": ",",
+    "span": {
+      "start": 90,
+      "end": 91
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 91,
+      "end": 92
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "quote",
+    "span": {
+      "start": 92,
+      "end": 97
+    }
+  },
+  {
+    "token": "other",
+    "slice": ",",
+    "span": {
+      "start": 97,
+      "end": 98
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 98,
+      "end": 99
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "and",
+    "span": {
+      "start": 99,
+      "end": 102
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 102,
+      "end": 103
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "anything",
+    "span": {
+      "start": 103,
+      "end": 111
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 111,
+      "end": 112
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "else",
+    "span": {
+      "start": 112,
+      "end": 116
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 116,
+      "end": 117
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "without",
+    "span": {
+      "start": 117,
+      "end": 124
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 124,
+      "end": 125
+    }
+  },
+  {
+    "token": "other",
+    "slice": "`",
+    "span": {
+      "start": 125,
+      "end": 126
+    }
+  },
+  {
+    "token": "left-block",
+    "slice": "[[",
+    "span": {
+      "start": 126,
+      "end": 128
+    }
+  },
+  {
+    "token": "right-block",
+    "slice": "]]",
+    "span": {
+      "start": 128,
+      "end": 130
+    }
+  },
+  {
+    "token": "other",
+    "slice": "`",
+    "span": {
+      "start": 130,
+      "end": 131
+    }
+  },
+  {
+    "token": "right-comment",
+    "slice": "--]",
+    "span": {
+      "start": 131,
+      "end": 134
+    }
+  },
+  {
+    "token": "line-break",
+    "slice": "\n",
+    "span": {
+      "start": 134,
+      "end": 135
+    }
+  },
+  {
+    "token": "bold",
+    "slice": "**",
+    "span": {
+      "start": 135,
+      "end": 137
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "bold",
+    "span": {
+      "start": 137,
+      "end": 141
+    }
+  },
+  {
+    "token": "bold",
+    "slice": "**",
+    "span": {
+      "start": 141,
+      "end": 143
+    }
+  },
+  {
+    "token": "line-break",
+    "slice": "\n",
+    "span": {
+      "start": 143,
+      "end": 144
+    }
+  },
+  {
+    "token": "italics",
+    "slice": "//",
+    "span": {
+      "start": 144,
+      "end": 146
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "italic",
+    "span": {
+      "start": 146,
+      "end": 152
+    }
+  },
+  {
+    "token": "italics",
+    "slice": "//",
+    "span": {
+      "start": 152,
+      "end": 154
+    }
+  },
+  {
+    "token": "line-break",
+    "slice": "\n",
+    "span": {
+      "start": 154,
+      "end": 155
+    }
+  },
+  {
+    "token": "underline",
+    "slice": "__",
+    "span": {
+      "start": 155,
+      "end": 157
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "underline",
+    "span": {
+      "start": 157,
+      "end": 166
+    }
+  },
+  {
+    "token": "underline",
+    "slice": "__",
+    "span": {
+      "start": 166,
+      "end": 168
+    }
+  },
+  {
+    "token": "line-break",
+    "slice": "\n",
+    "span": {
+      "start": 168,
+      "end": 169
+    }
+  },
+  {
+    "token": "double-dash",
+    "slice": "--",
+    "span": {
+      "start": 169,
+      "end": 171
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "strikethrough",
+    "span": {
+      "start": 171,
+      "end": 184
+    }
+  },
+  {
+    "token": "double-dash",
+    "slice": "--",
+    "span": {
+      "start": 184,
+      "end": 186
+    }
+  },
+  {
+    "token": "line-break",
+    "slice": "\n",
+    "span": {
+      "start": 186,
+      "end": 187
+    }
+  },
+  {
+    "token": "bold",
+    "slice": "**",
+    "span": {
+      "start": 187,
+      "end": 189
+    }
+  },
+  {
+    "token": "italics",
+    "slice": "//",
+    "span": {
+      "start": 189,
+      "end": 191
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "bold",
+    "span": {
+      "start": 191,
+      "end": 195
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 195,
+      "end": 196
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "and",
+    "span": {
+      "start": 196,
+      "end": 199
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 199,
+      "end": 200
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "italic",
+    "span": {
+      "start": 200,
+      "end": 206
+    }
+  },
+  {
+    "token": "italics",
+    "slice": "//",
+    "span": {
+      "start": 206,
+      "end": 208
+    }
+  },
+  {
+    "token": "bold",
+    "slice": "**",
+    "span": {
+      "start": 208,
+      "end": 210
+    }
+  },
+  {
+    "token": "line-break",
+    "slice": "\n",
+    "span": {
+      "start": 210,
+      "end": 211
+    }
+  },
+  {
+    "token": "underline",
+    "slice": "__",
+    "span": {
+      "start": 211,
+      "end": 213
+    }
+  },
+  {
+    "token": "double-dash",
+    "slice": "--",
+    "span": {
+      "start": 213,
+      "end": 215
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "underline",
+    "span": {
+      "start": 215,
+      "end": 224
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 224,
+      "end": 225
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "and",
+    "span": {
+      "start": 225,
+      "end": 228
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 228,
+      "end": 229
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "strikethrough",
+    "span": {
+      "start": 229,
+      "end": 242
+    }
+  },
+  {
+    "token": "double-dash",
+    "slice": "--",
+    "span": {
+      "start": 242,
+      "end": 244
+    }
+  },
+  {
+    "token": "underline",
+    "slice": "__",
+    "span": {
+      "start": 244,
+      "end": 246
+    }
+  },
+  {
+    "token": "line-break",
+    "slice": "\n",
+    "span": {
+      "start": 246,
+      "end": 247
+    }
+  },
+  {
+    "token": "double-dash",
+    "slice": "--",
+    "span": {
+      "start": 247,
+      "end": 249
+    }
+  },
+  {
+    "token": "underline",
+    "slice": "__",
+    "span": {
+      "start": 249,
+      "end": 251
+    }
+  },
+  {
+    "token": "bold",
+    "slice": "**",
+    "span": {
+      "start": 251,
+      "end": 253
+    }
+  },
+  {
+    "token": "italics",
+    "slice": "//",
+    "span": {
+      "start": 253,
+      "end": 255
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "bold",
+    "span": {
+      "start": 255,
+      "end": 259
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 259,
+      "end": 260
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "and",
+    "span": {
+      "start": 260,
+      "end": 263
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 263,
+      "end": 264
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "italic",
+    "span": {
+      "start": 264,
+      "end": 270
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 270,
+      "end": 271
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "and",
+    "span": {
+      "start": 271,
+      "end": 274
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 274,
+      "end": 275
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "underline",
+    "span": {
+      "start": 275,
+      "end": 284
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 284,
+      "end": 285
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "and",
+    "span": {
+      "start": 285,
+      "end": 288
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 288,
+      "end": 289
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "strikethrough",
+    "span": {
+      "start": 289,
+      "end": 302
+    }
+  },
+  {
+    "token": "italics",
+    "slice": "//",
+    "span": {
+      "start": 302,
+      "end": 304
+    }
+  },
+  {
+    "token": "bold",
+    "slice": "**",
+    "span": {
+      "start": 304,
+      "end": 306
+    }
+  },
+  {
+    "token": "underline",
+    "slice": "__",
+    "span": {
+      "start": 306,
+      "end": 308
+    }
+  },
+  {
+    "token": "double-dash",
+    "slice": "--",
+    "span": {
+      "start": 308,
+      "end": 310
+    }
+  },
+  {
+    "token": "line-break",
+    "slice": "\n",
+    "span": {
+      "start": 310,
+      "end": 311
+    }
+  },
+  {
+    "token": "superscript",
+    "slice": "^^",
+    "span": {
+      "start": 311,
+      "end": 313
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "superscript",
+    "span": {
+      "start": 313,
+      "end": 324
+    }
+  },
+  {
+    "token": "superscript",
+    "slice": "^^",
+    "span": {
+      "start": 324,
+      "end": 326
+    }
+  },
+  {
+    "token": "line-break",
+    "slice": "\n",
+    "span": {
+      "start": 326,
+      "end": 327
+    }
+  },
+  {
+    "token": "subscript",
+    "slice": ",,",
+    "span": {
+      "start": 327,
+      "end": 329
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "subscript",
+    "span": {
+      "start": 329,
+      "end": 338
+    }
+  },
+  {
+    "token": "subscript",
+    "slice": ",,",
+    "span": {
+      "start": 338,
+      "end": 340
+    }
+  },
+  {
+    "token": "line-break",
+    "slice": "\n",
+    "span": {
+      "start": 340,
+      "end": 341
+    }
+  },
+  {
+    "token": "raw",
+    "slice": "@@",
+    "span": {
+      "start": 341,
+      "end": 343
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "original",
+    "span": {
+      "start": 343,
+      "end": 351
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 351,
+      "end": 352
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "text",
+    "span": {
+      "start": 352,
+      "end": 356
+    }
+  },
+  {
+    "token": "raw",
+    "slice": "@@",
+    "span": {
+      "start": 356,
+      "end": 358
+    }
+  },
+  {
+    "token": "paragraph-break",
+    "slice": "\n\n",
+    "span": {
+      "start": 358,
+      "end": 360
+    }
+  },
+  {
+    "token": "triple-dash",
+    "slice": "------",
+    "span": {
+      "start": 360,
+      "end": 366
+    }
+  },
+  {
+    "token": "paragraph-break",
+    "slice": "\n\n",
+    "span": {
+      "start": 366,
+      "end": 368
+    }
+  },
+  {
+    "token": "quote",
+    "slice": ">",
+    "span": {
+      "start": 368,
+      "end": 369
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 369,
+      "end": 370
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "quote",
+    "span": {
+      "start": 370,
+      "end": 375
+    }
+  },
+  {
+    "token": "paragraph-break",
+    "slice": "\n\n",
+    "span": {
+      "start": 375,
+      "end": 377
+    }
+  },
+  {
+    "token": "raw",
+    "slice": "@@",
+    "span": {
+      "start": 377,
+      "end": 379
+    }
+  },
+  {
+    "token": "raw",
+    "slice": "@@",
+    "span": {
+      "start": 379,
+      "end": 381
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 381,
+      "end": 382
+    }
+  },
+  {
+    "token": "left-comment",
+    "slice": "[!--",
+    "span": {
+      "start": 382,
+      "end": 386
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "Force",
+    "span": {
+      "start": 386,
+      "end": 391
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 391,
+      "end": 392
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "New",
+    "span": {
+      "start": 392,
+      "end": 395
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 395,
+      "end": 396
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "Line",
+    "span": {
+      "start": 396,
+      "end": 400
+    }
+  },
+  {
+    "token": "right-comment",
+    "slice": "--]",
+    "span": {
+      "start": 400,
+      "end": 403
+    }
+  },
+  {
+    "token": "paragraph-break",
+    "slice": "\n\n",
+    "span": {
+      "start": 403,
+      "end": 405
+    }
+  },
+  {
+    "token": "left-bracket",
+    "slice": "[",
+    "span": {
+      "start": 405,
+      "end": 406
+    }
+  },
+  {
+    "token": "identifier",
+    "slice": "link",
+    "span": {
+      "start": 406,
+      "end": 410
+    }
+  },
+  {
+    "token": "whitespace",
+    "slice": " ",
+    "span": {
+      "start": 410,
+      "end": 411
+    }
+  },
+  {
+    "token": "url",
+    "slice": "https://www.google.com",
+    "span": {
+      "start": 411,
+      "end": 433
+    }
+  },
+  {
+    "token": "right-bracket",
+    "slice": "]",
+    "span": {
+      "start": 433,
+      "end": 434
+    }
+  }
+]

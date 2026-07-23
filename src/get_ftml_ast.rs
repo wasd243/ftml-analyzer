@@ -78,7 +78,7 @@ pub fn get_ftml_tokens(source_text: &str) -> Result<FtmlTokenizeOutput> {
     Ok(FtmlTokenizeOutput { tokens_json })
 }
 
-/// A function to get site name correctly (I don't think this is necessary when implementing highlighter)
+/// A function to get a site name correctly (I don't think this is necessary when implementing highlighter)
 fn get_site_name(language: &str) -> String {
     if language == "en" {
         let site = &language;
